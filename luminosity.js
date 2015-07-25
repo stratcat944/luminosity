@@ -8,12 +8,3 @@ var luminosity = function(){
 	
 }
 console.log(luminosity());
-
-
-// var isLight = luminosity > 155;
-
-// if (isLight) {
-// 	console.log('light')	
-// 	} else {
-// 		console.log('dark')
-// 	}
